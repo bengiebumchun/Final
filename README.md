@@ -6,6 +6,7 @@ Ben Chun & Jae Won Chang
 This Project analyzes the effects of foreign assistance, especially the U.S. Foreign assistance on its top 5 recipient countries, Afghanistan, Pakistan, Ethiopia, Jorda, and Iraq.
 
 *****************Resources****************
+
 [FINAL REPORT]
 - Final Project_WriteUp_BenChun_JaeWonChang.pdf: Final Write Up
 - Presentation for data.ppt: Class Presentation Slides
